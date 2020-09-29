@@ -92,3 +92,6 @@ https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference
 
     1.Query setting
     2.Advance Editor
+    
+2. How can we replace null values of a column based on values of other column.
+   For ex: IF DEPT=10, COMM should be 100, IF DEPT=20, COMM should be 200.
